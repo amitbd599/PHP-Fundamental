@@ -13,7 +13,7 @@ class greeting
 }
 
 // Call static method
-greeting::welcome();
+greeting::welcome(); //! To access a static method use the class name, double colon (::),
 
 
 

@@ -14,7 +14,7 @@ OOP makes it possible to create full reusable applications with less code and sh
 
 class myFun
 {
-    public $a, $b, $c;
+    public $a, $b, $c; //! public - the property or method can be accessed from everywhere. This is default
 
     function sum()
     {
